@@ -39,7 +39,7 @@ class Report extends PluginBase
         $this->getServer()->getCommandMap()->register("reportadmin", new AdminCommand("reportadmin"));
         $this->getServer()->getCommandMap()->register("reportlist", new ReportListCommand("reportlist"));
 
-        if($this->getServer()->getPluginManager()->getPlugin("PixelgamesToDiscord") != null){
+        if($this->getServer()->getPluginManager()->getPlugin("ReportToDiscord") != null){
             if($this->getPluginConfig()->get("discord")){
                 $this->discord = true;
                 PGTD::getInstance()->sendMessage(array("message" => "ReportSystem is now connected!"), PGTD::TYPE_PLUGIN);
