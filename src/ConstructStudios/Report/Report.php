@@ -2,7 +2,7 @@
 
 namespace ConstructStudios\Report;
 
-use ConstructStudios\PGToDiscord\PGTD;
+use ConstructStudios\ReportToDiscord\Report;
 use ConstructStudios\Report\commands\AdminCommand;
 use ConstructStudios\Report\commands\ReportCommand;
 use ConstructStudios\Report\commands\ReportListCommand;
