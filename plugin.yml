@@ -1,0 +1,13 @@
+name: Report
+main: ConstructStudios\Report\Report
+api: 3.0.0
+version: 0.1
+author: ConstructStudios
+
+softdepend:
+  - PixelgamesToDiscord
+
+permissions:
+  reportsystem.admin:
+    description: open admin ui and report list
+    default: op

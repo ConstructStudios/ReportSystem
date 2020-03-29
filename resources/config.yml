@@ -1,0 +1,16 @@
+#Configuration file for Reportsystem by ConstructStudios
+
+#plugin prefix
+#default: "§l§cReport§bSystem §r§7> "
+prefix: "§l§cReport§bSystem §r§7> "
+
+#global or local server mode
+#if set to global files will be stored in /reports in server root dir. otherwise they stored in plugin data dir
+#modes: global, local
+#default: local
+mode: local
+
+#send new reports to discord!
+#enable with true!
+#if you want to use this feature just install my Plugin ReportToDiscord(https://github.com/ConstructStudios/ReportToDiscord
+discord: false
