@@ -8,6 +8,8 @@ If you wish to request features, or notify me about an issue, please, make an is
 
 <p align="center">
   <a align="right"><img src="https://github.com/ConstructStudios/ReportSystem/blob/master/ReportSystem.png"></img></a>
+  <a align="right"><img src="https://github.com/ConstructStudios/ReportSystem/blob/master/ReportImage%231.png"></img></a>
+  <a align="right"><img src="https://github.com/ConstructStudios/ReportSystem/blob/master/ReportImage%232.png"></img></a>
   </div>
 
 ---
